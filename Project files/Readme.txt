@@ -17,5 +17,3 @@ Features:
 - Real-time image processing
 - Bootstrap responsive design
 - Animated backgrounds
-
-Contact: mohammadmuzu445@gmail.com
